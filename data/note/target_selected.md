@@ -70,3 +70,11 @@
 
 
 
+| Target                               | ChEMBL ID | UniProt ID | Activities IC50 | Activities Ki |
+|--------------------------------------|-----------|------------|-----------------|---------------|
+| Muscarinic acetylcholine receptor M1 | CHEMBL216 | P11229     | 1946            | 2519          |
+| Muscarinic acetylcholine receptor M2 | CHEMBL211 |   P08172   | 1512            | 2770          |
+| Muscarinic acetylcholine receptor M3 | CHEMBL245 | P20309     | 1794            | 2725          |
+
+
+| Acetylcholinesterase                        | CHEMBL220  | P22303     | 8395            | 1856          |

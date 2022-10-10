@@ -1,2 +1,2 @@
 # seq2pot
-Prediction of Potency between Molecules and Targets by Sequence-Based Neural Network with Application in Virtual Screening
+Predicting IC50 of Molecules on Targets by Sequence-Based Neural Network with Application in Virtual Screening

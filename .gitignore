@@ -134,3 +134,5 @@ dmypy.json
 data/raw/activities_ic50.csv
 data/raw/activities_ki.csv
 data/raw/targets.csv
+data/raw/fasta/
+data/seq2pot.csv
